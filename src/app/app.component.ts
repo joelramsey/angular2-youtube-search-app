@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { YouTubeSearchComponent } from './youtube-search-component/youtube-search-component';
 
 @Component({
   selector: 'app-root',
